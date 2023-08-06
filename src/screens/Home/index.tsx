@@ -28,6 +28,7 @@ export function Home() {
           :
           <Text style={styles.description}>
             Selecione a foto do seu prato para analizar.
+            Melhor foto
           </Text>
       }
 
